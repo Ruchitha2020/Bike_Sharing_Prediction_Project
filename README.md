@@ -1,0 +1,1 @@
+Implemented CRISP-DM methodology to structure project phases from problem formulation to model deployment. Cleaned and preprocessed bike rental and weather datasets using Python and Pandas, handling missing values and performing feature engineering based on historical data.
